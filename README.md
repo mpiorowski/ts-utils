@@ -10,8 +10,8 @@
 
 <div align="center">
 
-[![npm](https://img.shields.io/github/license/mpiorowski/svelte-init)](https://github.com/mpiorowski/utils/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/@mpiorowski/svelte-init)](https://www.npmjs.com/package/@mpiorowski/utils)
-[![npm](https://img.shields.io/bundlephobia/min/@mpiorowski/svelte-init)](https://www.npmjs.com/package/@mpiorowski/utils)
+[![npm](https://img.shields.io/github/license/mpiorowski/utils)](https://github.com/mpiorowski/utils/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/@mpiorowski/utils)](https://www.npmjs.com/package/@mpiorowski/utils)
+[![npm](https://img.shields.io/bundlephobia/min/@mpiorowski/utils)](https://www.npmjs.com/package/@mpiorowski/utils)
 
 </div>
