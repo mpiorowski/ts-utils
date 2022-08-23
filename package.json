@@ -1,0 +1,43 @@
+{
+  "name": "@mpiorowski/utils",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "author": "Mateusz Piórowski",
+  "license": "MIT",
+  "homepage": "https://github.com/mpiorowski/utils#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpiorowski/utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpiorowski/utils/issues"
+  },
+  "scripts": {
+    "test": "exit 0",
+    "lint": "eslint --ext .ts,.tsx . --max-warnings 0 && tsc --noEmit ",
+    "package": "rollup -c rollup.config.js && cp package.json package/package.json && cp tsconfig.json package/tsconfig.json"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json",
+    "./tsconfig.json": "./tsconfig.json"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.40",
+    "tslib": "^2.3.1",
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-typescript": "^8.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.6.2",
+    "rollup": "^2.75.7"
+  }
+}

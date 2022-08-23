@@ -1,0 +1,10 @@
+name: Lint code
+on:
+  workflow_call:
+jobs:
+  utils:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm ci
+      - run: npm run lint
