@@ -1,6 +1,6 @@
 {
   "name": "@mpiorowski/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "index.js",
   "module": "index.js",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "test": "exit 0",
-    "lint": "eslint --ext .ts,.tsx . --max-warnings 0 && tsc --noEmit ",
+    "lint": "eslint src --max-warnings 0 && tsc --noEmit ",
     "package": "rollup -c rollup.config.js && cp package.json package/package.json && cp tsconfig.json package/tsconfig.json"
   },
   "exports": {
@@ -31,7 +31,6 @@
     "typescript": "^4.7.3"
   },
   "devDependencies": {
-    "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-typescript": "^8.3.3",
     "@typescript-eslint/eslint-plugin": "^5.27.0",
     "@typescript-eslint/parser": "^5.27.0",
