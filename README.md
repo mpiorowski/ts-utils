@@ -15,3 +15,10 @@
 [![npm](https://img.shields.io/bundlephobia/min/@mpiorowski/utils)](https://www.npmjs.com/package/@mpiorowski/utils)
 
 </div>
+
+## Functions
+
+- assertIsDefined
+- createArray
+- searchArray
+- checkEnv
