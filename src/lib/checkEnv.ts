@@ -1,7 +1,8 @@
 export const checkEnv = (envVar: string) => {
-  if (!process.env[envVar]) {
-    throw Error(`Environment not set: ${envVar} `);
+  const env = process.env[envVar];
+  if (!env) {
+    throw Error(`Environment not set: ${envVar}`);
   } else {
-    return process.env[envVar] as string;
+    return env;
   }
 };

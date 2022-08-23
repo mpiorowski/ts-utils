@@ -3,6 +3,6 @@ export const assertIsDefined = <T>(
   variable?: string,
 ): asserts val is NonNullable<T> => {
   if (val === undefined || val === null) {
-    throw new Error('Expected ' + (variable || 'value') + ' to be defined.');
+    throw new Error('Expected ' + (variable ?? 'value') + ' to be defined.');
   }
 };
