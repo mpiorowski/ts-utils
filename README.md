@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mpiorowski/utils/#readme" target="_blank">
+  <a href="https://github.com/mpiorowski/ts-utils/#readme" target="_blank">
     <img width="300" src="./logo.png" alt="TsUtils">
   </a>
 </p>
