@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/mpiorowski/utils/#readme" target="_blank">
-    <img src="./.github/logo.svg" alt="Utils">
+    <img src="./logo.png" alt="Utils">
   </a>
 </p>
 
 <p align="center">
-  A set of utilities functions.
+  A collection of utility functions and types.
 </p>
 
 <div align="center">
@@ -22,3 +22,7 @@
 - createArray
 - searchArray
 - checkEnv
+
+## Types
+
+- Optional
