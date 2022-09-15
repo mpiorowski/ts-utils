@@ -1,6 +1,6 @@
 {
   "name": "@mpiorowski/ts-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "index.js",
   "module": "index.js",
@@ -18,7 +18,7 @@
   "scripts": {
     "test": "exit 0",
     "lint": "eslint src --max-warnings 0 && tsc --noEmit ",
-    "package": "rollup -c rollup.config.js && cp package.json package/package.json && cp tsconfig.json package/tsconfig.json"
+    "package": "rollup -c rollup.config.js && cp package.json package/package.json && cp tsconfig.json package/tsconfig.json && cp README.md package/README.md"
   },
   "exports": {
     ".": "./index.js",
