@@ -7,13 +7,13 @@
   "types": "index.d.ts",
   "author": "Mateusz Piórowski",
   "license": "MIT",
-  "homepage": "https://github.com/mpiorowski/utils#readme",
+  "homepage": "https://github.com/mpiorowski/ts-utils#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpiorowski/utils.git"
+    "url": "git+https://github.com/mpiorowski/ts-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/mpiorowski/utils/issues"
+    "url": "https://github.com/mpiorowski/ts-utils/issues"
   },
   "scripts": {
     "test": "exit 0",
