@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mpiorowski/utils/#readme" target="_blank">
-    <img src="./logo.png" alt="Utils">
+    <img width="300" src="./logo.png" alt="Utils">
   </a>
 </p>
 
