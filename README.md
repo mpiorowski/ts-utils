@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![npm](https://img.shields.io/github/license/mpiorowski/utils)](https://github.com/mpiorowski/utils/blob/main/LICENSE)
-[![npm](https://img.shields.io/npm/v/@mpiorowski/utils)](https://www.npmjs.com/package/@mpiorowski/utils)
-[![npm](https://img.shields.io/bundlephobia/min/@mpiorowski/utils)](https://www.npmjs.com/package/@mpiorowski/utils)
+[![npm](https://img.shields.io/github/license/mpiorowski/ts-utils)](https://github.com/mpiorowski/ts-utils/blob/main/LICENSE)
+[![npm](https://img.shields.io/npm/v/@mpiorowski/ts-utils)](https://www.npmjs.com/package/@mpiorowski/ts-utils)
+[![npm](https://img.shields.io/bundlephobia/min/@mpiorowski/ts-utils)](https://www.npmjs.com/package/@mpiorowski/ts-utils)
 
 </div>
 
