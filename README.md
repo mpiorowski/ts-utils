@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/mpiorowski/utils/#readme" target="_blank">
-    <img width="300" src="./logo.png" alt="Utils">
+    <img width="300" src="./logo.png" alt="TsUtils">
   </a>
 </p>
 
 <p align="center">
-  A collection of utility functions and types.
+  A collection of Typescript utility functions and types.
 </p>
 
 <div align="center">
