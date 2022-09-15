@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A collection of utility functions and types.
+  A collection of Typescript utility functions and types.
 </p>
 
 <div align="center">
